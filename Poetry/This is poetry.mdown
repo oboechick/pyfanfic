@@ -1,6 +1,6 @@
-Example of Poetry:
+# Examples of Poetry:
 
-Note: This is a parody of the Hallelujah Chorus from Handel's Massiah. I have removed the repeated lines:
+### Note: This is a parody of the Hallelujah Chorus from Handel's Massiah. I have removed the repeated lines:
 
 Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah!  
 Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah!
