@@ -1,6 +1,8 @@
 # pyfanfic
 > OH: This is just Python 2.7 fanfic, isn't it?
 
+Basically, we're making an anthology of Python fan writing and art. Python can be a character, a major plot point, or whatever makes sense for your story, but Python *must* be a key part of the creative work you contribute.
+
 ## Submission guidelines
 * Keep it [PG-13](https://www.thoughtco.com/how-does-a-movie-get-its-rating-2423408)
 * Avoid involving real humans without permission (you can write about yourself without permission, we guess)
