@@ -6,7 +6,7 @@ OH: This is just python 2.7 fanfic isn't it?
 * Avoid involving real humans without permission (you can write about yourself without permission, I guess
 * Stories can’t violate the PyCon CoC
 * Short stories, art, poetry are all welcome
-* Submit pitches through GitHub (contact us if GitHub isn’t an option for your submission)
+* Submit pitches through GitHub (contact us by commenting here if GitHub isn’t an option for your submission). Add your pitch to the appropriate folder — create a short description in a new .md in the folder.
 
 ##Money and Licensing
 
