@@ -25,3 +25,7 @@ We’ll be using a [CC-BY-SA license](https://creativecommons.org/share-your-wor
 
 ## Need Ideas?
 Check our issues. We're dropping ideas in there.
+
+## FAQ
+
+AU = alternate universe
