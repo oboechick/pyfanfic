@@ -16,9 +16,9 @@ First off, there is no money. This anthology is a labor of love. We’re plannin
 We’ll be using a [CC-BY-SA license](https://creativecommons.org/share-your-work/licensing-types-examples/) (free to share, as long as everything is attributed correctly). We’d also like any contributors to consider offering any originals (especially art) as a donation for the PyLadies auction.
 
 ## Timeline
-* Pitch deadline — 01 August 2018
-* Content list finalized — 01 September 2018
-* Draft content due — 01 January 2019
+* Pitch deadline — 01 September 2018
+* Content list finalized — 01 October 2018
+* Draft content due — 01 February 2019
 * All stories, art, poetry, etc finalized — 15 March 2019
 * Files go to the printer — 01 April 2019
 * Print run delivered to PyCon 2019 — 01 May 2019
