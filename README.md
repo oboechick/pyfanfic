@@ -11,9 +11,9 @@ Basically, we're making an anthology of Python fan writing and art. Python can b
 * Submit pitches through GitHub (contact us by commenting here if GitHub isn’t an option for your submission). Add your pitch to the appropriate folder — create a short description in a new .md in the folder.
 
 ## Money and Licensing
-First off, there is no money. This anthology is a labor of love and your submission is a contribution to the PyLadies Auction. We’re planning to make the anthology available online for free. We’ll also be printing a limited run of copies as a fundraiser for [PyLadies](http://www.pyladies.com/). Those print copies will only be available to contributors and through the PyLadies Auction at PyCon 2019 in Cleveland.
+First off, there is no money. This anthology is a labor of love. We’re planning to make the anthology available online for free. We’ll also be printing a limited run of copies as a fundraiser for [PyLadies](http://www.pyladies.com/). Those print copies will only be available to contributors and through the PyLadies Auction at PyCon 2019 in Cleveland.
 
-We’ll be using a [CC-BY-SA license](https://creativecommons.org/share-your-work/licensing-types-examples/) (free to share, as long as everything is attributed correctly). We’d also like any contributors to consider offering any originals (especially art) as an additional donation for the PyLadies auction.
+We’ll be using a [CC-BY-SA license](https://creativecommons.org/share-your-work/licensing-types-examples/) (free to share, as long as everything is attributed correctly). We’d also like any contributors to consider offering any originals (especially art) as a donation for the PyLadies auction.
 
 ## Timeline
 * Pitch deadline — 01 September 2018
@@ -25,3 +25,7 @@ We’ll be using a [CC-BY-SA license](https://creativecommons.org/share-your-wor
 
 ## Need Ideas?
 Check our issues. We're dropping ideas in there.
+
+## FAQ
+
+AU = alternate universe
