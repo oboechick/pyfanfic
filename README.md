@@ -21,7 +21,7 @@ We’ll be using a [CC-BY-SA license](https://creativecommons.org/share-your-wor
 * Draft content due — 01 January 2020
 * All stories, art, poetry, etc finalized — 15 February 2020
 * Files go to the printer — 01 March 2020
-* Print run delivered to PyCon 2019 — 01 May 2020
+* Print run delivered to PyCon 2020 — 01 May 2020
 
 ## Need Ideas?
 Check our issues. We're dropping ideas in there.
